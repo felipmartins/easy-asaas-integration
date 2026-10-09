@@ -1,0 +1,10 @@
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Go build and test artifacts
+/bin/
+/dist/
+*.test
+coverage.out
