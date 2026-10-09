@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# easy-asaas-integration
-An open-source Go toolkit and reference application that simplifies payment collection with Asaas.
-=======
 # Easy Asaas Integration
 
 An open-source Go toolkit and reference application for collecting payments through Asaas.
@@ -58,4 +54,3 @@ TypeScript and React may be used for the dashboard, documentation website, JavaS
 ## License
 
 The project license has not yet been selected. A license will be added after the maintainers choose one.
->>>>>>> origin/master
